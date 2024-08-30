@@ -6,4 +6,4 @@ COPY . /app/
 
 RUN pip install -r requirements.txt
 
-CMD ["stramlit","run","main.py"]
+CMD ["streamlit","run","main.py"]
