@@ -1,5 +1,5 @@
 FROM python:3.9-slim-buster
-EXPOSE 8082
+EXPOSE 8501
 
 WORKDIR /app
 
